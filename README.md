@@ -1,5 +1,4 @@
 # DataVisualizationCharts
-
 This repository contains Python scripts for generating visualizations from an Excel dataset named `balance_data.xlsx`. The scripts utilize the pandas and matplotlib libraries for data manipulation and visualization.
 
 ## Scripts
